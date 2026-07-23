@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/src/test/resources"/>
+		<testFolder url="file://$MODULE_DIR$/target/generated-test-sources/test-annotations"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Maven: junit:junit:4.12" scope="TEST"/>
+	<lib name="Maven: org.hamcrest:hamcrest-core:1.3" scope="TEST"/>
+	<levels>
+		<level name="Maven: com.bbva.arch.qe.backend:backend-testing-runner-all:0.108.0-SNAPSHOT" value="project"/>
+		<level name="Maven: com.bbva.arch.api:global-services-steps-pe:0.0.1-SNAPSHOT" value="project"/>
+		<level name="Maven: com.bbva.arch.api:global-services-steps-common:0.0.1-SNAPSHOT" value="project"/>
+		<level name="Maven: junit:junit:4.12" value="project"/>
+		<level name="Maven: org.hamcrest:hamcrest-core:1.3" value="project"/>
+	</levels>
+</component>

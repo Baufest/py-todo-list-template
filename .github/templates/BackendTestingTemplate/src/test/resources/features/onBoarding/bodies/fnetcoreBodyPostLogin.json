@@ -1,0 +1,15 @@
+{
+  "documento": {
+    "tipoDocumento": {
+      "codigoTipoDocumento": "0",
+      "descripcionCorta": "",
+      "descripcion": ""
+    },
+    "numeroDocumento": "10606151",
+    "genero": ""
+  },
+  "usuario": "",
+  "claveDigital": "",
+  "numeroClienteAltamira": "$responseLogin.result.numeroClienteAltamira",
+  "versionFront": "20210610.2020"
+}

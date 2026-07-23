@@ -1,0 +1,14 @@
+{
+  "documento": {
+    "tipoDocumento": {
+      "codigoTipoDocumento": "0",
+      "descripcionCorta": "",
+      "descripcion": ""
+    },
+    "numeroDocumento": "10606151",
+    "genero": ""
+  },
+  "usuario": "miusuario",
+  "claveDigital": "micd1122",
+  "versionFront": "20210610.2020"
+}
