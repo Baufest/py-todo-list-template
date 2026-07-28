@@ -7,7 +7,7 @@ Los datos se almacenan en una base de datos SQLite en memoria, por lo que se rei
 ## Requisitos
 
 - Python 3.12+
-- Node.js 18+
+- Node.js 20.19.0 or 22.12.0+
 
 ## Backend
 
